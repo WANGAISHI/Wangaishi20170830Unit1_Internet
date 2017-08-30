@@ -141,6 +141,10 @@ public class MainActivity extends AppCompatActivity implements XListView.IXListV
         @Override
         public int getViewTypeCount() {
             return type_num;
+
+
+
+
         }
 
         @Override
